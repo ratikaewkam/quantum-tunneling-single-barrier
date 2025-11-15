@@ -47,4 +47,4 @@ A simulation tool for studying quantum tunneling phenomena. Analyzes how transmi
 
 ---
 
-Developed by [Rati Kaewkam](https://github.com/ratikaewkam)
+Developed by [Rati Kaewkam](https://github.com/ratikaewkam) 
